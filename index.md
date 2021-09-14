@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Hi there!
 
-You can use the [editor on GitHub](https://github.com/Djonathon/Dmitri_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Dmitri, I am an aspiring Data Scientist based in Los Angeles, CA. I'm currently in my Master's program for Data Science (expected graduation - 2022). There's not much to look at now, but feel free to take a look around. I will be uploading more projects soon!
 
 ### Markdown
 
