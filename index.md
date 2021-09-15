@@ -21,7 +21,6 @@ My name is Dmitri and I am an aspiring Data Scientist based in Los Angeles, CA. 
 
 ### Relevant Coursework
 
->  <dt>Program Courses</dt>
 >  <dd>Fundamentals of Data Science</dd>
 >  <dd>Programming for Data Science</dd>
 >  <dd>Data Warehousing</dd>
