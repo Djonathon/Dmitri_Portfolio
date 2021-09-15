@@ -1,6 +1,6 @@
 ## Hi there!
 
-My name is Dmitri and I am an aspiring Data Scientist based in Los Angeles, CA. I'm currently in my Master's program for Data Science and expect to graduate Decemmber 2022. Still new to the world of GitHub, but I'm excited to share projects and collaborate with others. Stay tuned - I will be uploading projects very soon!
+My name is Dmitri and I am an aspiring Data Scientist based in Los Angeles, CA. I'm currently in my Master's program for Data Science and expect to graduate December 2022. Still new to the world of GitHub, but I'm excited to share projects and collaborate with others. Stay tuned - I will be uploading projects very soon! In the meantime, feel free to check out the items below. 
 
 
 [Email Me](mailto:dmitrispiropoulos@gmail.com)
