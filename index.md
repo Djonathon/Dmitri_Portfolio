@@ -13,11 +13,11 @@ My name is Dmitri and I am an aspiring Data Scientist based in Los Angeles, CA. 
 > Python  
 > SQL  
 > R  
-> Tableau
-> Power BI
-> Storytelling
-> Written/Oral Communication
-> Problem Solver
+> Tableau  
+> Power BI  
+> Storytelling  
+> Written/Oral Communication  
+> Problem Solver  
 
 ### Relevant Coursework
 >
